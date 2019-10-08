@@ -9,7 +9,7 @@ layout: default
   <ul>
   {% for snippet in site.snippets %}
     {% if snippet.tags contains tag %}
-    <li><a href="{{ site.baseurl }}{{ snippet.url }}">{{ snippet.title }}</a></li>
+    <li><a href="{{ snippet.url }}">{{ snippet.title }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>

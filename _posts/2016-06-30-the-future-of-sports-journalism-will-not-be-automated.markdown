@@ -1,0 +1,26 @@
+---
+layout:	post
+title:	"The Future of Sports Journalism Will Not Be Automated"
+date:	2016-06-30
+---
+
+  #### At Least Until Everything Else Is 🤖
+
+![](/img/1*YDTILWQ1ZziRjwf3AxGYjQ.jpeg)Campus Party Europe - <https://flic.kr/p/cYpVLG> — CC AttributeIt was announced today that the Associated Press [will cover all 142 MLB-affiliated minor league baseball teams.](http://www.ap.org/Content/Press-Release/2016/AP-expands-Minor-League-Baseball-coverage) They have not hired a single journalist to do so. This is being done with the help of [Automated Insights](https://automatedinsights.com), a startup based in Durham, NC that “analyzes patterns in big data and turns them into readable narratives.” [(Wikipedia)](https://en.wikipedia.org/wiki/Automated_Insights) This certainly fits the needs of the AP, who would like to cover all news at scale. They’ve been doing this with NCAA Baseball and with quarterly earnings reports as well. But is this a positive for journalism? Does this help the readers?
+
+Potentially, this frees up the person writing up game reports to investigate better stories. These stories already exist for each MiLB team ([Potomac Nationals](http://www.milb.com/news/article.jsp?ymd=20160627&content_id=186608306&fext=.jsp&vkey=recap&sid=t436), [Durham Bulls](http://www.milb.com/news/article.jsp?ymd=20160628&content_id=186822626&fext=.jsp&vkey=recap&sid=t234)), and so you’d hope that the person in charge of these stories gets to write more interesting narratives. These recaps provide little more than the boxscore, perhaps there’s something else they could cover?
+
+Hopefully so. In these times where journalists and [minor league players are having trouble getting paid](http://espn.go.com/mlb/story/_/id/13934900/federal-judge-grants-minor-league-baseball-players-conditional-class-status-wage-lawsuit-major-league-baseball), both could benefit from more coverage. There’s plenty of great stories waiting to be told with teams that aren’t covered very closely. The Sonoma Stompers [will be starting two women on Friday](http://www.excellesports.com/news/female-baseball-players-minor-league/), but the automated game recap might only remark on how “Kelsie Whitmore hit for a double in the bottom of the second” and completely miss the history of the moment. Or perhaps the automated story about the Washington Spirit vs Orlando Pride game would note that there was a prolonged minute of continued Orlando possession at 48:30, but [miss the importance of what happened](http://www.excellesports.com/news/pride-spirit-fans-players-stand-together-orlando-washington/):
+
+
+> Ahead of the game, fans were instructed to stand and clap for the entirety of the 49th minute. Play would continue as fans paid their respects, just as life trudges on in the wake of horrific violence. When the game clock read 48:00, no directive was issued, but slowly, all across the stadium, fans came to their feet. For that minute, the hate and bigotry that fueled the killing of 49 innocent people could be drowned out by the sound of nearly six thousand people applauding in support of love and acceptance. The players didn’t need to stop, but they did stop. The referee didn’t blow his whistle; the ball didn’t go out of bounds. **Instead, twenty-two players from various nations, backgrounds, and lifestyles responded to the aching tug of human compassion, pausing to honor the lives of 49 people with stories so similar yet different to their own.**Fast forward to 3:53 to see the pause in action — NWSL Youtube[Caitlin Buckley](http://www.excellesports.com/news/author/caitlin-buckley/) nailed something that would be missed by an automated box recap: the emotion and the bigger importance of the game. I believe that proponents of automated reporting have missed the importance of distilling the human side of the game, rather than the numbers. In 2015, [Ed Sherman for Poytner opined](http://www.poynter.org/2015/resistance-is-futile-ap-to-use-computers-to-cover-baseball-games/344335/):
+
+
+> A computer can’t write like Grantland Rice and deliver an epic lede that begins “Outlined against a blue-gray, the Four Horseman rode again.” Then again, nobody has written like that in more than 80 years.I don’t believe that to be true. Many journalists, including the website named after him (RIP Grantland) to outlets like Excelle Sports, are proving that wrong. They are telling the stories that aren’t being covered by the AP or [the New York Times](https://twitter.com/DannyPage/status/736604043653578752). There are stories to be told, and even if they don’t have the flourish of Rice’s prose, it would be a shame if they weren’t told at all.
+
+PS: Another worry of mine that didn’t fit the greater story: Technology like this is great for distilling numbers and making them readable for humans to interpret. But we should always question the biases are going into that algorithm.
+
+
+> [](https://twitter.com/Pinboard/status/744595961217835008)🎉 Thanks for reading, please share, and you can [follow me on Twitter](http://www.twitter.com/dannypage)!
+
+  
