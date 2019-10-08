@@ -4,7 +4,7 @@ title:	"Hidden Gems in the 2016 NWSL Draft"
 date:	2016-01-13
 ---
 
-  ![](/img/1*XGz8SNS1nrVtt6cS-bhNWA.jpeg)Ally Kasun could be a sneaky pickup in this week’s draft — photo: [news-press.com](http://www.news-press.com/story/sports/college/fgcu/2015/11/04/tiny-tenacious-ally-kasun-heart-fgcu-womens-soccer/75158168/)Quick article here so I can get a few ideas on record before the NWSL College Draft on Friday. (Hope to see people there!)
+  ![](/views/assets/img/1*XGz8SNS1nrVtt6cS-bhNWA.jpeg)Ally Kasun could be a sneaky pickup in this week’s draft — photo: [news-press.com](http://www.news-press.com/story/sports/college/fgcu/2015/11/04/tiny-tenacious-ally-kasun-heart-fgcu-womens-soccer/75158168/)Quick article here so I can get a few ideas on record before the NWSL College Draft on Friday. (Hope to see people there!)
 
 This uses [Christopher Long’s](http://twitter.com/octonion) [ratings](https://docs.google.com/spreadsheets/d/1QdIQh8GRrx3h08E0Leimecr2e0CNPXQUuCF2k6sGxIw/edit?usp=sharing) to find some potentially overlooked players where their team’s Offense or Defense Rating is much better than their overall rating. They may not be the top players at their positions, but players who may not have gotten a first glance because their teams weren’t in the national tournament, making them great late round or undrafted selections.
 

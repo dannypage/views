@@ -4,7 +4,7 @@ title:	"South Carolinians are frantically Googling their own College, hours afte
 date:	2016-06-30
 ---
 
-  ![](/img/1*TsW8_VWGX_dIBTG7X3WzSg.png)The whole country is reeling after a milestone comeback win in Omaha to take the College World Series. And although leaders of the Chanticleers crowing over their victory, it seems many South Carolinians may not even know what they had actually cheered for.
+  ![](/views/assets/img/1*TsW8_VWGX_dIBTG7X3WzSg.png)The whole country is reeling after a milestone comeback win in Omaha to take the College World Series. And although leaders of the Chanticleers crowing over their victory, it seems many South Carolinians may not even know what they had actually cheered for.
 
 That confusion over what the win might mean for the Big South appears to have been reflected across the state on Thursday. Google reported sharp upticks in searches not only related to the competition but also about basic questions concerning the teams involved. At about 5 p.m. Eastern time, about one hour after the game ended, Google reported that searches for “what is coastal carolina” had more than tripled.
 

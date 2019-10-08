@@ -4,7 +4,7 @@ title:	"A few soccer analytics articles that I finally read"
 date:	2017-02-23
 ---
 
-  ![](/img/1*LAMj80-lTVHlFjgeV1Um7w.png)you have to have an image, it helps #engagementI have had these articles stuck in tab-purgatory for quite awhile, but I’m glad to have finally read them. These bright fellows are moving the ball forward and I wanted to highlight them — *so they can sit in your tabs for a week err — *to spread the good word.
+  ![](/views/assets/img/1*LAMj80-lTVHlFjgeV1Um7w.png)you have to have an image, it helps #engagementI have had these articles stuck in tab-purgatory for quite awhile, but I’m glad to have finally read them. These bright fellows are moving the ball forward and I wanted to highlight them — *so they can sit in your tabs for a week err — *to spread the good word.
 
 Expected goals is passé, now check out these expected passes and the attached dashboard. I might quibble that this is the one area that you’d absolutely need tracking data to get better numbers, but interesting nonetheless.
 

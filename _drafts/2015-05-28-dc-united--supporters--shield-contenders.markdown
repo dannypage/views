@@ -4,7 +4,7 @@ title:	"DC United: Supporters’ Shield Contenders?"
 date:	2015-05-28
 ---
 
-  ![](/img/1*DOM17ZsgQe0I29Tu1RaKdw.jpeg)DC United has had a very interesting tenure under Ben Olsen. In his four full seasons, two times they have been at the top of the Eastern Conference. Twice they have been near or at the bottom of the league. It’s been bewildering being a fan as we never know what to expect from the team.
+  ![](/views/assets/img/1*DOM17ZsgQe0I29Tu1RaKdw.jpeg)DC United has had a very interesting tenure under Ben Olsen. In his four full seasons, two times they have been at the top of the Eastern Conference. Twice they have been near or at the bottom of the league. It’s been bewildering being a fan as we never know what to expect from the team.
 
 2015 appears to have DC United aiming for the top spot again. DCU was first in MLS for multiple weeks, which has been fantastic for morale and attendance. But as in anything, life’s tough at the top. First, they lost in Philly 1–0 to a stoppage time goal. Soon after, they needed the Revs to go down to 9 men to finally convert their singular Shot-On-Goal for a 1–1 draw. And lastly, they took a reserve squad to Portland and lost 1–0 (It could have been worse, if not for Hamid doing Hamid things). 8 weeks in, and DC United now sits (uncomfortably) at the top of the East, and a point behind Seattle.
 
@@ -24,7 +24,7 @@ DC United has benefited greatly from Bill Hamid. I’d posit he’s been the pri
 
 #### Banked Points
 
-![](/img/1*KxkwoQuKj_02rrqvn8DGPQ.png)New England benefitted from the early lead.In 2014, New England was in first in the East with 20 points after 12 matches (Sounds similar!). Then, they lost 8 straight times and eventually found themselves 7th in the standings. Fortunately for NER, they regained their form and went 10–2–2 over their last 14 matches to retake 2nd in the conference. Could DC United weather a smaller storm and still make a run at the shield? It’s possible, as many teams didn’t take this opportunity to build a stable lead in points. But it would also require a dominant effort in the back half of the season as well (More on this later).
+![](/views/assets/img/1*KxkwoQuKj_02rrqvn8DGPQ.png)New England benefitted from the early lead.In 2014, New England was in first in the East with 20 points after 12 matches (Sounds similar!). Then, they lost 8 straight times and eventually found themselves 7th in the standings. Fortunately for NER, they regained their form and went 10–2–2 over their last 14 matches to retake 2nd in the conference. Could DC United weather a smaller storm and still make a run at the shield? It’s possible, as many teams didn’t take this opportunity to build a stable lead in points. But it would also require a dominant effort in the back half of the season as well (More on this later).
 
 ### The Bad
 

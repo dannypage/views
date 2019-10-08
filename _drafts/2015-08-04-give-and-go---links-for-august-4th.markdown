@@ -4,7 +4,7 @@ title:	"Give and Go — Links for August 4th"
 date:	2015-08-04
 ---
 
-  ![](/img/1*el-jOEsKZts-wbxOQxQ9yw.jpeg)*Trying something out by posting daily/weekly/whenever footy links in one spot. Let me know if this is helpful at all!*
+  ![](/views/assets/img/1*el-jOEsKZts-wbxOQxQ9yw.jpeg)*Trying something out by posting daily/weekly/whenever footy links in one spot. Let me know if this is helpful at all!*
 
 The Premier League is about to start this weekend, so here are a few articles about Arsenal predictions, analysing transfer inflation, and an EPL Fantasy League for ‘fanalysts’ to join. Ted Knutson of StatsBomb/Brentford FC/FC Midtjylland also talks about how he got his current role in football. But first, the Seattle Sounders are a big proponent of analytics; however they are using those processes to further their club in a traditional sense: keeping their players fit.
 

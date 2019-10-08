@@ -8,7 +8,7 @@ date:	2015-12-09
 
 First, an interactive simulator about [bias in the workplace](http://doesgenderbiasmatter.com/) by [Penelope Hill](https://twitter.com/penelopecodes). She uses “Men & Women” as the example based on some research, but it also could apply in different amounts based on race or other factors. In the picture below, even a 1% bias towards Men results in a large disparity at the CEO level. 5% or 10% is even more striking.
 
-![](/img/1*q0RGZHLUASDCo0MpbbnGYA.png)Secondly, a segment from a national radio broadcast about sports. [Bomani Jones interviewing Stephen A. Smith about the 76ers and Analytics](http://espn.go.com/espnradio/play?id=14324312) leads to a bad possibility in future hiring, given that “who you know is as important as what you know”:
+![](/views/assets/img/1*q0RGZHLUASDCo0MpbbnGYA.png)Secondly, a segment from a national radio broadcast about sports. [Bomani Jones interviewing Stephen A. Smith about the 76ers and Analytics](http://espn.go.com/espnradio/play?id=14324312) leads to a bad possibility in future hiring, given that “who you know is as important as what you know”:
 
 
 > Bomani: Is there anything going down the line, because it seems that this is a kind of theme, a lot of these hedge fund guys are buying teams, getting these general managers who really looked at this in kinda a cold sorta way, players are just assets and trying to figure out how to get to the long run goal. Is there any effect on how this is gonna go and how the league proceeds across the league?
@@ -33,4 +33,4 @@ Here’s my takeaway from the examples today and the many others I’ve seen in 
 
 Sports Analytics is the process of challenging systems held back by out-dated biases. Let’s expand that to our society as well.
 
-![](/img/1*x1u26-3cOp1ut7O4yGIy1A.png)I wonder if this cartoon features white males on purpose, since we are the least aware of the importance of this dichotomy.  
+![](/views/assets/img/1*x1u26-3cOp1ut7O4yGIy1A.png)I wonder if this cartoon features white males on purpose, since we are the least aware of the importance of this dichotomy.  

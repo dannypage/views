@@ -12,4 +12,4 @@ date:	2015-11-12
 
 I’ll be offline most of this weekend, but hopefully you all will get a chance to check out the information that have been provided and gather some interesting insights. I’d love to see what you all find! “Enjoy” the International Break ;)
 
-![](/img/1*QKe4oeSFMWmVnJCu44C1Uw.png)Perhaps Chelsea’s Goals Against might look a bit better soon?  
+![](/views/assets/img/1*QKe4oeSFMWmVnJCu44C1Uw.png)Perhaps Chelsea’s Goals Against might look a bit better soon?  

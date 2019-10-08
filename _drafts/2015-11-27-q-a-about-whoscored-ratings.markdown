@@ -8,7 +8,7 @@ date:	2015-11-27
 
 I got a chance to ask Cristiano Acconci, Co-Founder of WhoScored, a few questions about their rating. Here’s a transcript of our quick conversation. Grammar is unedited; order of statements has been changed for clarity.
 
-![](/img/1*xUyZ0Hb5CcKC-JW-NG04bw.png)#### **Conversation between Danny Page and Cristiano Acconci**
+![](/views/assets/img/1*xUyZ0Hb5CcKC-JW-NG04bw.png)#### **Conversation between Danny Page and Cristiano Acconci**
 
 CA: I’d be delighting to explain the ratings more if needed.
 
@@ -24,7 +24,7 @@ DP: How much is that winning or clean sheet boost?
 
 CA: It depends on position. Mids won’t get as much as Defs etc
 
-![](/img/1*eUM9Tc60FM83xNBV5t97Dg.png)DP: 55% players are bunched in the 6.X range. Intended? *(See the attached image.)*
+![](/views/assets/img/1*eUM9Tc60FM83xNBV5t97Dg.png)DP: 55% players are bunched in the 6.X range. Intended? *(See the attached image.)*
 
 CA: That was the 2012/13 PL average only.
 
@@ -50,4 +50,4 @@ Addendum:
 
 1. Mike Goodman and Gab Marcotti further discussed analytics in footy on the follow-up episode: <http://fivethirtyeight.com/datalab/podcast-a-premier-league-preview-the-nfl-gets-microchips/>
 2. Screenshots of our discussion, sorry about the ordering:
-![](/img/1*M_G1TgX6xgTn4EwXZrP6Ig.png)![](/img/1*z7BcAGNGW68WhK0RBY4hAg.png)![](/img/1*sJH4vz3I318MW97MK1GXJg.png)  
+![](/views/assets/img/1*M_G1TgX6xgTn4EwXZrP6Ig.png)![](/views/assets/img/1*z7BcAGNGW68WhK0RBY4hAg.png)![](/views/assets/img/1*sJH4vz3I318MW97MK1GXJg.png)  

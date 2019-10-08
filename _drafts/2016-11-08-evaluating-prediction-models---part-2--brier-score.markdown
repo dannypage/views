@@ -17,7 +17,7 @@ Lastly, I’ll be using the models in aggregate to create a timeline of Optimist
 * Minimum: 280.68–257.32
 As states are called, the bounds of the prediction will narrow toward the eventual number. An example of what that graph will look like:
 
-![](/img/1*Dx87sLSYRj-s4vPnf4lVqw.jpeg)Just an example, but wouldn’t it be nice if it was over that quickly?The models included are:
+![](/views/assets/img/1*Dx87sLSYRj-s4vPnf4lVqw.jpeg)Just an example, but wouldn’t it be nice if it was over that quickly?The models included are:
 
 * [FiveThirtyEight, Polls-Only](http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo)
 * [New York Times, Upshot](http://www.nytimes.com/interactive/2016/upshot/presidential-polls-forecast.html)

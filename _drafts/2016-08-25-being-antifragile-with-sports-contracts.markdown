@@ -4,7 +4,7 @@ title:	"Being Antifragile with Sports Contracts"
 date:	2016-08-25
 ---
 
-  ![](/img/1*kKTr1RqfqwKQnf_A6i9cAg.jpeg)$25,000 contract! And look at that bonus for performing against the Canadiens.A few tweets popped into my timeline about how analytical types gauge contracts in hockey. I won’t go into specific player examples, but did want to make a few points about how teams can benefit from having small gambles with upside, rather than signing players with contracts that later become millstones if they don’t work out as expected for the team. Here are the tweets for context:
+  ![](/views/assets/img/1*kKTr1RqfqwKQnf_A6i9cAg.jpeg)$25,000 contract! And look at that bonus for performing against the Canadiens.A few tweets popped into my timeline about how analytical types gauge contracts in hockey. I won’t go into specific player examples, but did want to make a few points about how teams can benefit from having small gambles with upside, rather than signing players with contracts that later become millstones if they don’t work out as expected for the team. Here are the tweets for context:
 
 
 > [](https://twitter.com/AdamZHerman/status/768810984521728000)<https://twitter.com/AdamZHerman/status/768810984521728000>

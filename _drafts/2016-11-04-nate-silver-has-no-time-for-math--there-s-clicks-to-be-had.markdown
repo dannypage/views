@@ -16,7 +16,7 @@ Harry Enten has [calculated the average polling error from the last 12 President
 > On average, the polls have been off by 2 percentage points, whether because the race moved in the final days or because the polls were simply wrong.So, we have Clinton up by around 3.3 points. The average error in Presidential public polling is 2.0 points. So what’s going on here?
 
 
-> [](https://twitter.com/NateSilver538/status/794571867449421829)please, please stop with this![](/img/1*xYKyKt_IfapFP5f7GOcxbQ.png)<http://fivethirtyeight.com/features/trump-is-just-a-normal-polling-error-behind-clinton/>First, Nate must be mentioning the standard deviation, not the average absolute error. That should have been communicated better.
+> [](https://twitter.com/NateSilver538/status/794571867449421829)please, please stop with this![](/views/assets/img/1*xYKyKt_IfapFP5f7GOcxbQ.png)<http://fivethirtyeight.com/features/trump-is-just-a-normal-polling-error-behind-clinton/>First, Nate must be mentioning the standard deviation, not the average absolute error. That should have been communicated better.
 
 Second, 3-point polling errors do not happen “pretty often”. They have happened 3 times. 1980, 1996, 2000. I can be charitable and give you 2012 by rounding up. That’s 4 out of 12.
 
@@ -28,7 +28,7 @@ The race may be closer, especially with increased variance in this election. But
 
 That said, if it did make you nervous as a Clinton supporter, go vote!
 
-![](/img/1*1zqT4tDptnHXr5R35bgPlg.gif)dawwwwwPS: a Normal distribution might not be correct here. More polls from Senate and other large races may be necessary.
+![](/views/assets/img/1*1zqT4tDptnHXr5R35bgPlg.gif)dawwwwwPS: a Normal distribution might not be correct here. More polls from Senate and other large races may be necessary.
 
 (please share and follow me on [twitter.com/dannypage](http://twitter.com/dannypage) for more stats-based outrage. And [corgis](https://twitter.com/DannyPage/status/761645252251910144))
 
