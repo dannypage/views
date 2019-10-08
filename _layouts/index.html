@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!---
 {% assign tags =  site.snippets | map: 'tags' | join: ','  | split: ',' | uniq %}
 <h2>Code Snippets</h2>
 {% for tag in tags %}
@@ -9,32 +9,32 @@ layout: default
   <ul>
   {% for snippet in site.snippets %}
     {% if snippet.tags contains tag %}
-    <li><a href="{{ snippet.url }}">{{ snippet.title }}</a></li>
+    <li><a href="{{ site.baseurl }}{{ snippet.url }}">{{ snippet.title }}</a></li>
     {% endif %}
   {% endfor %}
   </ul>
 {% endfor %}
+-->
 
-<hr>
+<div class="columns">
+  <div class="column col-6 col-xs-12"> 
+      <div class="card">
+        <!-- https://picturepan2.github.io/spectre/components/cards.html -->
+        <a href="./articles/">
+          <div class="card-header">
+            <div class="card-title h5">Articles</div>
+          </div>
+        </a>
+      </div>
+  </div>
 
-{%- if site.posts.size > 0 -%}
-<h2 class="post-list-heading">{{ page.list_title | default: "Articles" }}</h2>
-<ul class="post-list">
-  {%- for post in site.posts -%}
-  <li>
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <span class="post-meta">{{ post.date | date: date_format }}</span>
-    <h3>
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
+  <div class="column col-6 col-xs-12">
+  <div class="card">
+      <a href="./snippets/">
+        <div class="card-header">
+          <div class="card-title h5">Code Snippets</div>
+        </div>
       </a>
-    </h3>
-    {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-    {%- endif -%}
-  </li>
-  {%- endfor -%}
-</ul>
-
-<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-{%- endif -%}
+    </div>
+  </div>
+</div>
