@@ -1,0 +1,36 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+// overrides
+
+.svg-icon {
+    padding-right: 0px;
+}
+
+.md h1::before { content: "# "; }
+.md h2::before { content: "## "; }
+.md h3::before { content: "### "; }
+.md h4::before { content: "#### "; }
+.md h5::before { content: "##### "; }
+.md h6::before { content: "###### "; }
+.md strike::after, 
+.md strike::before { content: "~~"; }
+.md i::before, 
+.md i::after, 
+.md em::before, 
+.md em::after { content: "_"; }
+.md b::before, 
+.md b::after, 
+.md strong::before, 
+.md strong::after { content: "*"; }
+.md ol, 
+.md ul { list-style: none; padding-left: 0; }
+.md ul li::before { content: "* "; }
+.md ol { counter-reset: numberlist;  }
+.md ol li { counter-increment: numberlist; }
+.md ol li::before { content: counter(numberlist) ". "; }
+.md a::before { content: "["; }
+.md a::after { content: "]"; }
