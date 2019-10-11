@@ -39,6 +39,7 @@ header_pages:
 collections:
   snippets:
     output: true
+    layout: snippet
     permalink: /:collection/:title
 
 permalink: /posts/:title
