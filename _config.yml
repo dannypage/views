@@ -32,10 +32,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+- about.md
+- credits.md
+
 collections:
   snippets:
     output: true
-    permalink: /:collection/:title/
+    layout: snippet
+    permalink: /:collection/:title
+
+permalink: /posts/:title
 
 defaults:
   - scope:
