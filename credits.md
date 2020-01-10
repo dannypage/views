@@ -3,6 +3,7 @@ layout: page
 title: Credits
 permalink: /credits/
 ---
+Every movie has credits, why not websites?
 
 ## Blogging
 

@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-- about.md
 - credits.md
 
 permalink: /:title
