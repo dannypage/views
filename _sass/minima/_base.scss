@@ -28,13 +28,6 @@ body {
   flex-direction: column;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    color: $dm-text-color;
-    background-color: $dm-background-color;
-  }
-}
-
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */

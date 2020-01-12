@@ -1,0 +1,49 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    color: $dm-text-color;
+    background-color: $dm-background-color;
+  }
+
+  blockquote {
+    color: $dm-grey-color-dark;
+  }
+
+  p.post-meta {
+    color: $dm-text-color-dark;
+  }
+
+  img {
+    filter: grayscale(30%);
+  }
+
+  a {
+    color: $dm-brand-color;
+
+    &:visited {
+      color: darken($dm-brand-color, 15%);
+    }
+
+    &:hover {
+      color: $dm-brand-color;
+      text-decoration: underline;
+    }
+  }
+
+  .site-title {
+
+    &,
+    &:visited {
+      color: $dm-grey-color;
+    }
+  }
+
+  .site-nav {
+    .page-link {
+      color: $dm-text-color;
+    }
+  }
+
+  .footer-col-wrapper {
+    color: $dm-grey-color;
+  }
+}
