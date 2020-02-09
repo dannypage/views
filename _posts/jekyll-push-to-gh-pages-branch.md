@@ -1,3 +1,9 @@
+---
+layout:	post
+title:	"Pushing your Custom Jekyll build to GH-Pages"
+date:	2020-02-08
+---
+
 I spent an hour or two trying to find a good script on how to push custom Jekyll builds to Github Pages. Surprisingly, they don't allow you to target a specific folder for the build and keep just one branch. (Outside of /docs, but I couldn't find a way to build Jekyll in /docs) - There was some complicated ways to setup Github Actions or other one-off solutions to build to a new branch. However, I finally found a solution that works for me, and I've compiled it here for my own reference and maybe it'll help you!
 
 # Setup
