@@ -15,17 +15,10 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: 🎩 Install Jekyll
-        run: |
-          sudo gem install bundler jekyll
-          sudo bundle install
-      - name: 🧹 Clean site
-        run: |
-          if [ -d "_site" ]; then
-            rm -rf _site/*
-          fi
       - name: 🔨 Build site
-        run: bundle exec jekyll build -d _site
+        run: |
+          mkdir .jekyll-cache _site
+          docker run --rm -v ${{ github.workspace }}:/srv/jekyll jekyll/builder:latest jekyll build
       - name: 🧪 Deploy build
         run: |
           git config user.name "${GITHUB_ACTOR}"
