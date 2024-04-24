@@ -15,11 +15,17 @@ jobs:
         uses: actions/checkout@master
         with:
           fetch-depth: 1
-      - name: 🔨 Build site
-        run: |
-          mkdir .jekyll-cache _site
-          docker run --rm -v ${{ github.workspace }}:/srv/jekyll jekyll/builder:latest jekyll build
-      - name: 🧪 Deploy build
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3
+          bundler-cache: true
+      - name: Build site
+        run: bundle exec jekyll b 
+        env:
+          JEKYLL_ENV: "production"
+
+      - name: 🧪 Commit build
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
