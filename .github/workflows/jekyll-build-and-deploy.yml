@@ -36,17 +36,9 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
-        defaults:
-          run:
-            working-directory: .
 
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-      - name: Install Dependencies
-        run:  npm install
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
         with:
