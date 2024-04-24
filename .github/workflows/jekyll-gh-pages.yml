@@ -44,20 +44,13 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
-      - name: Install Dependencies
-        run:  npm install
-      - name: creates frontend build
-        run:  sh ./build.sh 
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-directory: '_site'
-          destination-directory: 'views'
+          target-directory: 'views'
           destination-github-username: 'dannypage'
           destination-repository-name: 'dannypage.github.io'
           user-email: dannypage@users.noreply.github.com
