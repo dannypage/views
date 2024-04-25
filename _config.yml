@@ -53,7 +53,7 @@ defaults:
 #
 exclude:
   - README.md
-  - License.txt
+  - LICENSE.txt
   - CODE_OF_CONDUCT.md
 #   - .sass-cache/
 #   - .jekyll-cache/
