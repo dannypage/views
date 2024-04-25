@@ -7,31 +7,30 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🛎 Check out master
-        uses: actions/checkout@master
-        with:
-          fetch-depth: 1
-      - name: Setup Ruby
+
+      - name: checkout master
+        uses: actions/checkout@v2
+
+      - name: setup ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2
+          ruby-version: 2.7
           bundler-cache: true
-      - name: Build site
-        run: bundle exec jekyll b 
-        env:
-          JEKYLL_ENV: "production"
 
-      - name: 🧪 Commit build
+      - name: jekyll build
+        run: JEKYLL_ENV=production bundle exec jekyll build --destination _site
+
+      - name: Commit build
         run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add .
-          git commit -am "🧪 Deploy with ${GITHUB_WORKFLOW}"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          cd site && \
+          git config user.name "${GITHUB_ACTOR}" && \
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
+          git add . && \
+          git commit -m "jekyll build from Action ${GITHUB_SHA}" && \
+          git push
 
   deploy:
     runs-on: ubuntu-latest
