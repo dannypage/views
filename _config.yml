@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Page Views
+title: Danny Page - Page Views
 email: daniel.w.page@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Danny Page's articles, code snippets, and other things to store and share.
@@ -51,7 +51,10 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - README.md
+  - License.txt
+  - CODE_OF_CONDUCT.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
