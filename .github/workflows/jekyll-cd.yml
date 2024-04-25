@@ -2,10 +2,6 @@ name: jekyll-cd
 
 on:
   push:
-    paths-ignore:
-      - '_site/**'
-      - 'README.md'
-      - '.gitignore'
     branches:
       - master
     
