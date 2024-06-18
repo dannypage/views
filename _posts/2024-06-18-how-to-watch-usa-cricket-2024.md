@@ -10,12 +10,14 @@ USA Cricket is on it's way to the Super 8. Not the motel, but instead the next r
 
 Let's say you've never seen a game of cricket before, where do you even start to understand this cousin of baseball? Here are a few terms to start:
 
-- Runs: Like in baseball, the goal of the game is to score the most runs possible. In baseball, you have to round all 4 bases to score a run. In cricket, you merely have to run 20 meters to the other side of the Pitch to score a run. If you hit the ball out of the field, it's 4 runs if it bounced on the way out, 6 runs if it clears the boundary before landing.
-- Wicket: This when is when the batter is out. In baseball, a batter would get to go again after getting out. In cricket, once you get out, you are done for the match. You get 10 wickets before your team is done playing offense. You can get out if the ball is caught before bouncing, the ball hits the stumps (also called a wicket) on delivery, or hits the stump before you reach the other side of the pitch.
-- Overs: This divides up the innings. The bowling team delivers (pitches) 6 balls per Over. There are 20 Overs per side in T20 cricket (hence the name). ODI - One Day International - has 50 Overs per side. Once you've exhausted all the overs, your team is done batting.
-- Innings: Each team gets 1 of these in T20 cricket. (Why is it plural then? Who can say.)
+- _Runs_: Like in baseball, the goal of the game is to score the most runs possible. In baseball, you have to round all 4 bases to score a run. In cricket, you merely have to run 20 meters to the other side of the _Pitch_ to score a run. If you hit the ball out of the field, it's 4 runs if it bounced on the way out, 6 runs if it clears the boundary before landing.
+- _Wicket_: This when is when the batter is out. In baseball, a batter would get to go again after getting out. In cricket, once you get out, you are done for the match. You get 10 wickets before your team is done playing offense. You can get out if the ball is caught before bouncing, the ball hits the stumps (also called a wicket) on delivery, or hits the stump before you reach the other side of the pitch.
+- _Overs_: This divides up the innings. The bowling team delivers (pitches) 6 balls per Over. There are 20 Overs per side in T20 cricket (hence the name). ODI - One Day International - has 50 Overs per side. Once you've exhausted all the overs, your team is done batting.
+- _Innings_: Each team gets 1 of these in T20 cricket. (Why is it plural then? Who can say.)
 
-So, to bring it all together, __when your team bats first, you want them to score as many runs as possible in 20 Overs before you have 10 Wickets.__ If your team is batting second, your team is __chasing the target__ set by the first team. And that's it! 
+So, to bring it all together, __when your team bats first, you want them to score as many runs as possible in 20 Overs before you have 10 Wickets.__ 
+
+If your team is batting second, your team is __chasing the target__ set by the first team. Once you achieve the target, have lost 10 wickets, or used 20 overs, the match is over.
 
 ## Scorelines
 
@@ -43,6 +45,8 @@ I'll leave this to the reader! Can you answer the following:
 - How many overs did each team play?
 
 Lastly, there was supposed to be a match against Ireland, but it got rained out. Rain Outs give a point (wins 2 points) and the USA scored 5 points in the group, enough to get second and advance to the next round. This result also guarantees the US a spot in the 2026 T20 World Cup!
+
+__tl;dr__: hit dingers, don't get out, and win international acclaim. (And [more PTO from Oracle](https://www.nbcnews.com/news/asian-america/saurabh-netravalkar-leads-team-usa-t20-world-cup-oracle-career-rcna157248)
 
 ## More Resources
 
