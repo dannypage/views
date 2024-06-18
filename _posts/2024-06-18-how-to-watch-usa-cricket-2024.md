@@ -23,20 +23,20 @@ If your team is batting second, your team is __chasing the target__ set by the f
 
 Let's break down a few scorelines to understand why there are fractions.
 
-![Canada Vs USA - T20 World Cup]({{ site.baseurl }}/assets/img/canada-vs-usa.jpeg)
+![Canada Vs USA - T20 World Cup]({{ site.baseurl }}/views/assets/img/canada-vs-usa.jpeg)
 
 Canada batted first. They scored 194 runs, with 5 of their batters going out in 20 overs. USA batted second, and needed to hit a target of 195. They successfully did so by scoring 197 runs in 17.4 Overs. (17 full overs, and 4 of the 6 balls delivered in the 18th over). They only had 3 batters go out. (197/3) 
 
 
 In a bit of parlance that I believe is left over from Test Cricket, this is denoted with "winning by 7 wickets" - but more importantly is "winning by 14 balls". Given the 120 balls available to score the points, it lets us know how many resources they had left. 
 
-![Pakistan Vs USA - T20 World Cup]({{ site.baseurl }}/assets/img/pakistan-vs-usa.jpeg)
-
+![Pakistan Vs USA - T20 World Cup]({{ site.baseurl }}/views/assets/img/pakistan-vs-usa.jpeg)
 In one of the most tense matches for this newer cricket fans, USA had to chase again. Pakistan had 7 batters go out as they scored 159 runs. USA needed to score 160 runs to win. However, they only tied at 159 runs. Even though they only had 3 batters to go out, that's not used as a tie breaker. 
 
 The teams went to a Super Over, which is a single over for both teams. USA batted first and scored 18 runs with 1 out (18/1), setting a target of 19 for Pakistan. If they scored 18, it would be a second Super Over. However, Pakistan only scored 13, and the USA won their second match. 
 
-![India vs USA - T20 World Cup]({{ site.baseurl }}/assets/img/india-vs-usa.jpeg)
+
+![India vs USA - T20 World Cup]({{ site.baseurl }}/views/assets/img/india-vs-usa.jpeg)
 
 I'll leave this to the reader! Can you answer the following:
 
