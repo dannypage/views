@@ -1,0 +1,8 @@
+media:
+  input: assets
+  output: /views/assets
+content:
+  - name: posts
+    label: Posts
+    path: _posts
+    type: collection
