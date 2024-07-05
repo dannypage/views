@@ -1,6 +1,6 @@
 ---
 layout:	post
-title:	"Tracking Fireworks' Impact on Fourth of July AQI"
+title:	"Tracking Fireworks Impact on Fourth of July AQI"
 date:	2024-07-05
 ---
 
