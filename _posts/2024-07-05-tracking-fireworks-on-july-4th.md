@@ -65,6 +65,9 @@ $ ffmpeg
 
 Finally, here is that video! This runs from 7 PM to 7 AM in the San Francisco Bay Area as well as the Central Valley.
 
-<video src="/views/assets/img/fireworks/output.mp4" width="640" height="480" controls></video>
+
+<video autoplay loop muted playsinline controls>
+    <source src="/views/assets/img/fireworks/output.mp4">
+</video>
 
 You can instantly see the impact of the fireworks. 200+ plus is dangerous for **anyone** if exposed to it for sustained amount of time. 100+ can hit sensitive groups hard. And given the nature of the Bay Area and the Oakland/Fremont hills, the toxic air can hang around. It's dreadful during wildfire season and makes it all the more questionable that we would do this to ourselves.
