@@ -6,9 +6,9 @@ date:	2024-07-05
 
 I'm increasingly of the opinion that fireworks should not be used at all, or at best sparingly in the best conditions for safe dispersal of the pollutants. There are fire risks, limb risks, and breathing risks that come with exploding toxic chemicals in the air. However, America disagrees with me, especially at 8:45 PM local time on July 4th each year. 
 
-I learned about [PurpleAir](https://www2.purpleair.com/) after spending a few years in California and having to adjust my life when wildfire smoke was around. The [US Government's Air Quality map](https://www.airnow.gov/national-maps/) usually lags what you can see in the air. Often times I'd open it when it was dreadfully obvious that it was a 150-200 PM2.5 AQI day, and it was still reporting under 100. Only after multiple days of requiring a N95 and clothes smelling like a campfire would it be updated. Fortunately, many people have adjusted by buying PurpleAir monitors and you can see live-to-the-minute information about the air quality around you on the [PurpleAir map.](https://map.purpleair.com/). 
+I learned about [PurpleAir](https://www2.purpleair.com/) after spending a few years in California and having to adjust my life when wildfire smoke was around. The [US Government's Air Quality map](https://www.airnow.gov/national-maps/) usually lags what you can see in the air. Often times I'd open it when it was dreadfully obvious that it was a 150-200 PM2.5 AQI day, and it was still reporting under 100. Only after multiple days of requiring a N95 and clothes smelling like a campfire would it be updated. Fortunately, many people have adjusted by buying PurpleAir monitors and you can see live-to-the-minute information about the air quality around you on the [PurpleAir map.](https://map.purpleair.com/)
 
-![](/views/assets/img/fireworks-dc-purpleair.png)
+![](/views/assets/img/fireworks/dc-purpleair.png)
 
 Armed with this massive and real-time map, you can see the effects of fireworks can be acutely and suddenly be seen on the national scale. I remembered to check this site after hearing fireworks in the DC area. You can quite clearly see various monitors noting massive rises in the AQI metric in the evening of July 4th.
 
