@@ -8,7 +8,7 @@ I'm increasingly of the opinion that fireworks should not be used at all, or at 
 
 I learned about [PurpleAir](https://www2.purpleair.com/) after spending a few years in California and having to adjust my life when wildfire smoke was around. The [US Government's Air Quality map](https://www.airnow.gov/national-maps/) usually lags what you can see in the air. Often times I'd open it when it was dreadfully obvious that it was a 150-200 PM2.5 AQI day, and it was still reporting under 100. Only after multiple days of requiring a N95 and clothes smelling like a campfire would it be updated. Fortunately, many people have adjusted by buying PurpleAir monitors and you can see live-to-the-minute information about the air quality around you on the [PurpleAir map.](https://map.purpleair.com/). 
 
-![](/views/assets/img/fireworksdc-purpleair.png)
+![](/views/assets/img/fireworks-dc-purpleair.png)
 
 Armed with this massive and real-time map, you can see the effects of fireworks can be acutely and suddenly be seen on the national scale. I remembered to check this site after hearing fireworks in the DC area. You can quite clearly see various monitors noting massive rises in the AQI metric in the evening of July 4th.
 
@@ -65,6 +65,6 @@ $ ffmpeg
 
 Finally, here is that video! This runs from 7 PM to 7 AM in the San Francisco Bay Area as well as the Central Valley.
 
-![](/views/assets/img/fireworks/output.mp4)
+<video src="/views/assets/img/fireworks/output.mp4" width="640" height="480" controls></video>
 
 You can instantly see the impact of the fireworks. 200+ plus is dangerous for **anyone** if exposed to it for sustained amount of time. 100+ can hit sensitive groups hard. And given the nature of the Bay Area and the Oakland/Fremont hills, the toxic air can hang around. It's dreadful during wildfire season and makes it all the more questionable that we would do this to ourselves.
