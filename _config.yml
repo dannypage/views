@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Danny Page - Page Views
-email: daniel.w.page@gmail.com
+title: Page Views
+email: questions@danny.page
 description: >- # this means to ignore newlines until "baseurl:"
   Danny Page's articles, code snippets, and other things to store and share.
 baseurl: "/views" # the subpath of your site, e.g. /blog
