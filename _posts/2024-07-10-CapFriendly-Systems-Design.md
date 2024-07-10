@@ -56,7 +56,7 @@ Some things to consider are questions around scaling the website, caching pages,
 
 ## What's next?
 
-As of July 10th, CapFriendly is no longer public. They’ve closed the site and now are full time members of the Washington Capitals. Chris Patrick has been promoted to General Manager and will need to direct some changes the product for the Caps Front Office. What might the CapFriendly crew do with the application now? Here are a few things I’d suggest they take to make the best use of the software already created:
+As of July 10th, CapFriendly is no longer public. They’ve closed the site and now are full time members of the Washington Capitals. Chris Patrick has been promoted to General Manager and will need to direct some changes to the website for internal use within the Front Office. So what might the CapFriendly crew do with it now? Here are a few things I’d suggest they take to make the best use of the software already created:
 
 - **As a front office user** - I want to securely access the site, so that it’s protected and I have access to add notes on players and teams. // SSO logins will protect this, train folks on how to use the backend for adding data as necessary.
 - **As a scout** - I want to be able to add scouting reports directly on each page, so that it can be one place. // Create a place on every page that lets the most recent notes be seen. Pivot the page from just being about to contract, to a one-stop shop.
