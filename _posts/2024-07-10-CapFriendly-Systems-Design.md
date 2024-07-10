@@ -36,7 +36,8 @@ Without knowing the internals of the website, I can surmise some of the major po
 - Public facing app
 	- Everything that we see. Team dashboards, player history, the forums, the Armchair GM tool, etc. Given the JavaScript-lite nature of the website, I’ll guess that it’s a Django or Ruby on Rails app that does a lot of server rendering. This can be a big benefit for mostly-read-only website; caching and load balancing is much easier with these setups.
 - Database 
-	- The secret sauce of the website. The hard work. Some may say it’s easy to build such a website, but the difficulty is understanding and gathering all the data necessary to populate it. Calculating daily cap hits requires perfect data about player contracts, transactions, and business rules. 
+	- The secret sauce of the website. The hard work. Some may say it’s easy to build such a website, but the difficulty is understanding and gathering all the data necessary to populate it. Calculating daily cap hits requires perfect data about player contracts, transactions, and business rules.
+
 ## Data Model
 
 The website would need to keep track of the following. Some of these may need snapshots at any given day, especially the cap hit tracking. 
