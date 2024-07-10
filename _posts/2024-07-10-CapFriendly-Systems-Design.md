@@ -12,7 +12,7 @@ Let's dig into some of the major areas of CapFriendly's system design:
 ## Product Requirements 
 *What are people going to come to the website for? How can we serve a variety of customers? How will it make money?*
 
-![general systems design map](/views/assets/img/IMG_0112.jpeg)
+![screenshot of the league dashboard](/views/assets/img/IMG_0112.jpeg)
 
 CapFriendly, like [CapGeek](https://en.m.wikipedia.org/wiki/CapGeek) before it, was launched to help NHL fans to better understand how teams in the NHL were managing their rosters and salary caps. Before those sites were around, many contract details were hidden from the public. Teams would often not willingly disclose salary or term length, or if there were any No Move/Trade Clauses. Media members could get this info, but it wasn't in one place. So the ultimate *raison d'être* of these cap sites: **Get contract data to the public.** 
 
@@ -56,7 +56,7 @@ Some things to consider are questions around scaling the website, caching pages,
 
 ## What's next?
 
-As of July 10th, CapFriendly is no longer public. They’ve closed the site and now are full time members of the Washington Capitals. Chris Patrick has been promoted to General Manager and needs to improve and change the product for the Caps Front Office. What might they do with the application? Here are a few things I’d suggest they take to make the best use of the software already created:
+As of July 10th, CapFriendly is no longer public. They’ve closed the site and now are full time members of the Washington Capitals. Chris Patrick has been promoted to General Manager and will need to direct some changes the product for the Caps Front Office. What might the CapFriendly crew do with the application now? Here are a few things I’d suggest they take to make the best use of the software already created:
 
 - **As a front office user** - I want to securely access the site, so that it’s protected and I have access to add notes on players and teams. // SSO logins will protect this, train folks on how to use the backend for adding data as necessary.
 - **As a scout** - I want to be able to add scouting reports directly on each page, so that it can be one place. // Create a place on every page that lets the most recent notes be seen. Pivot the page from just being about to contract, to a one-stop shop.
@@ -89,7 +89,7 @@ $ wayback
 
 Then go to the server and search for the main URL - and then you’ll have it running locally!
 
-![screenshot of PYWB running with the archive showing the capfriendly homepage as captured on July 9th](/views/assets/img/IMG_0110.jpeg)
+![screenshot of PYWB running with the archive showing the capfriendly homepage as captured on July 9th](/views/assets/img/IMG_0113.jpeg)
 
 ## In Closing
 
