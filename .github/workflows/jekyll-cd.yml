@@ -4,14 +4,12 @@ on:
   push:
     branches:
       - master
-    
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: checkout master
         uses: actions/checkout@v4
 
@@ -24,22 +22,16 @@ jobs:
       - name: jekyll build
         run: JEKYLL_ENV=production bundle exec jekyll build --destination _site
 
-      - name: Commit build
+      - name: Commit build to source repo
         run: |
-          cd  _site && \
+          cd _site && \
           git config user.name "${GITHUB_ACTOR}" && \
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com" && \
           git add . && \
           git commit -m "jekyll build from Action ${GITHUB_SHA}" && \
           git push
 
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-
-    steps:
-      - uses: actions/checkout@v4
-      - name: Pushes to another repository
+      - name: Deploy to dannypage.github.io
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
